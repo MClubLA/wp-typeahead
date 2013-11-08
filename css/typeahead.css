@@ -2,9 +2,9 @@
 	width: 25%;
 	}*/
 
-/*.twitter-typeahead {
-	width: 73% !important;
-	}*/
+.twitter-typeahead {
+	width: 83% !important;
+	}
 
 .twitter-typeahead * {
 	-moz-box-sizing: border-box;
